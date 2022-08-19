@@ -80,5 +80,5 @@ BUT... the plastic retainers / standoffs breat very easy.
 can be replaced with 2x small M1 M2 M3 maybe & 20mm long screws, and a plastic / Kapton O-ring washer in the back of the PCB.
 does Not need to be tight, springs are strong, just balanced.
 a lock nut or a small amount of nail paint or a drop of super glue will hold the screw in place.
-do not over tight, the sprin must have room to move.
+do not over tight, the spring must have room to move.
 
