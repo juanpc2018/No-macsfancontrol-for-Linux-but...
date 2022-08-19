@@ -51,8 +51,15 @@ where?
 /sys/devices/platform/applesmc.768/
 
 the problem is that you need SU
-#
+
 $ sudo is not enough
+if you dont have a SU password "probably", you need to 
+
+$ sudo -i
+passwd
+or
+$ sudo passwd root
+
 also
 chmod 666 fan*
 or 665
