@@ -1,5 +1,5 @@
 If you have a Mac, one of the best advantages over other machines,
-was the software MacsFanControl from Crystal idea,
+was the software MacsFanControl from Crystalidea,
 for Windows and OSX.
 it allows to manually control Fan speed on a Laptop!, 
 also allows to control fans in MacPro 5,1 2010 and many other Macs.
